@@ -1,29 +1,29 @@
-# NYC Flights 2013 — Análise Estatística de Atrasos
+# NYC Flights 2013 — Statistical Analysis of Delays
 
-Projeto da disciplina de **Estatística Descritiva** do MBA em Ciência de Dados.
+Project for the **Descriptive Statistics** course of the MBA in Data Science.
 
-## Objetivo
+## Objective
 
-Analisar o comportamento dos voos domésticos partindo de Nova York em 2013, identificando padrões de atraso por aeroporto de origem e companhia aérea, com foco na distribuição dos atrasos e na categorização dos voos.
+Analyze the behavior of domestic flights departing from New York in 2013, identifying delay patterns by origin airport and airline, focusing on delay distribution and flight categorization.
 
-## Dados
+## Data
 
-| Arquivo | Fonte | Descrição |
+| File | Source | Description |
 |---|---|---|
-| `nycflights.csv` | Professor | Dataset principal: todos os voos domésticos partindo de JFK, LGA e EWR em 2013 |
+| `nycflights.csv` | Professor | Main dataset: all domestic flights departing from JFK, LGA, and EWR in 2013 |
 
-## Estrutura do Notebook
+## Notebook Structure
 
 1. **Imports**
-2. **Carregamento e Preparação** — carregamento do dataset e visão geral das variáveis
-3. **Análise Descritiva** *(em andamento)* — medidas descritivas, distribuição e categorização dos atrasos, análise por aeroporto de origem e companhia aérea
-4. **Síntese e Conclusões** *(TODO)*
+2. **Loading and Preparation** — dataset loading and overview of variables
+3. **Descriptive Analysis** *(in progress)* — descriptive measures, delay distribution and categorization, analysis by origin airport and airline
+4. **Summary and Conclusions** *(TODO)*
 
-## Principais Achados
+## Key Findings
 
-> A definir.
+> To be defined.
 
-## Requisitos
+## Requirements
 
 ```
 pandas
